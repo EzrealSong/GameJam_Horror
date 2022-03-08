@@ -5,18 +5,32 @@ using UnityEngine.AI;
 
 public class Guard : MonoBehaviour
 {
-    public GameObject player;
-    private NavMeshAgent navmesh;
-
+    [SerializeField] private Transform goal;
+    private NavMeshAgent agent;
+    private float timer = 0f;
+    private float threshold = 0.5f;
     // Start is called before the first frame update
     void Start()
     {
-        navmesh = GetComponent<NavMeshAgent>();
+        agent = GetComponent<NavMeshAgent>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        navmesh.destination = player.transform.position;
+        //agent.destination = goal.position;
+
+        timer += Time.deltaTime;
+        if (timer >= threshold)
+        {
+            agent.destination = goal.position;
+            timer = 0f;
+        }
+
+    }
+
+    public void setTarget(Transform newGoal)
+    {
+        goal = newGoal;
     }
 }
