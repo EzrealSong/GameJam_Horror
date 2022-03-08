@@ -15,11 +15,11 @@ F:/GitHub/GameJam2/Horror Level
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56026
+62917
 Successfully changed project path to: F:/GitHub/GameJam2/Horror Level
 F:/GitHub/GameJam2/Horror Level
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 22.82 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 22.50 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.28f1 (f5400f52e03f)
 [Subsystems] Discovering subsystems at path F:/Unity/2020.3.28f1/Editor/Data/Resources/UnitySubsystems
@@ -35,72 +35,72 @@ Initialize mono
 Mono path[0] = 'F:/Unity/2020.3.28f1/Editor/Data/Managed'
 Mono path[1] = 'F:/Unity/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'F:/Unity/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56728
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/Unity/2020.3.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000857 seconds.
+Registered in 0.000878 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 22.99 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 22.75 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.377 seconds
+- Completed reload, in  0.373 seconds
 Domain Reload Profiling:
-	ReloadAssembly (377ms)
-		BeginReloadAssembly (46ms)
+	ReloadAssembly (373ms)
+		BeginReloadAssembly (47ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (290ms)
-			LoadAssemblies (46ms)
+		EndReloadAssembly (283ms)
+			LoadAssemblies (47ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (97ms)
+			SetupTypeCache (94ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (110ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (107ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (23ms)
-				BeforeProcessingInitializeOnLoad (11ms)
-				ProcessInitializeOnLoadAttributes (55ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (53ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002529 seconds.
+Registered in 0.002380 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.613 seconds
+- Completed reload, in  0.602 seconds
 Domain Reload Profiling:
-	ReloadAssembly (613ms)
-		BeginReloadAssembly (100ms)
+	ReloadAssembly (602ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (12ms)
-		EndReloadAssembly (479ms)
-			LoadAssemblies (66ms)
+		EndReloadAssembly (474ms)
+			LoadAssemblies (64ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (165ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (185ms)
+			SetupLoadedEditorAssemblies (179ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (50ms)
-				ProcessInitializeOnLoadAttributes (124ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (121ms)
 				ProcessInitializeOnLoadMethodAttributes (6ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1502 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 68.6 MB.
 System memory in use after: 68.7 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1934.
-Total: 1.694900 ms (FindLiveObjects: 0.082500 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.534000 ms  DeleteObjects: 0.050700 ms)
+Total: 1.727700 ms (FindLiveObjects: 0.078600 ms CreateObjectMapping: 0.025000 ms MarkObjects: 1.564900 ms  DeleteObjects: 0.058600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,1121 +131,1530 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Building Blocks/Furniture Set/loungeSofaCorner.fbx
-  artifactKey: Guid(4ad71f2976b27e34aa18cbe29ee4447f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeSofaCorner.fbx using Guid(4ad71f2976b27e34aa18cbe29ee4447f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9439474ad48b66b1f5b20c1babf16844') in 0.216854 seconds 
-  Import took 0.218656 seconds .
+  path: Assets/Scenes
+  artifactKey: Guid(0957db6b802d70c4fbfc4463a0ee72a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(0957db6b802d70c4fbfc4463a0ee72a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6490a0ca1c3337e849d0c3f15549a37') in 0.006193 seconds 
+  Import took 0.008019 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCloth.fbx
-  artifactKey: Guid(e82178382095a5d40bfd830f717169ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCloth.fbx using Guid(e82178382095a5d40bfd830f717169ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8b898c5425bdbba9d0e989e52f0253') in 0.017949 seconds 
-  Import took 0.019759 seconds .
+  Time since last request: 1153.572517 seconds.
+  path: Assets/GameBackground.jpg
+  artifactKey: Guid(18ce84b6622f75043af9b97f2056b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameBackground.jpg using Guid(18ce84b6622f75043af9b97f2056b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92060cc4222bb064edbe81672526dca6') in 0.044145 seconds 
+  Import took 0.046401 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/Building Blocks/Furniture Set/bathroomSink.fbx
-  artifactKey: Guid(cd04eccf44cb3bc40aa0cfdac8fe32d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bathroomSink.fbx using Guid(cd04eccf44cb3bc40aa0cfdac8fe32d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b690bdfdab845b08ff3cf77ee30d749') in 0.019384 seconds 
-  Import took 0.021098 seconds .
+  Time since last request: 60.008358 seconds.
+  path: Assets/GameBackground.jpg
+  artifactKey: Guid(18ce84b6622f75043af9b97f2056b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameBackground.jpg using Guid(18ce84b6622f75043af9b97f2056b2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fb51ee871f3113f8aa353bcccbb26a') in 0.035593 seconds 
+  Import took 0.037671 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000144 seconds.
-  path: Assets/Building Blocks/Furniture Set/bookcaseClosed.fbx
-  artifactKey: Guid(ab7aec93b513d9d4a94615189d0bec5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bookcaseClosed.fbx using Guid(ab7aec93b513d9d4a94615189d0bec5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d00fa4bdcd6709ffe60a566af4e2dd') in 0.014241 seconds 
-  Import took 0.016097 seconds .
+  Time since last request: 1425.057910 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.006560 seconds 
+  Import took 0.008985 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Building Blocks/Furniture Set/coatRackStanding.fbx
-  artifactKey: Guid(33a29ad58fb67454b90377c5ada862bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/coatRackStanding.fbx using Guid(33a29ad58fb67454b90377c5ada862bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecedfb73cc51074345aef05df1d9d5ce') in 0.014478 seconds 
-  Import took 0.016202 seconds .
+  Time since last request: 30.291251 seconds.
+  path: Assets/New TMP Color Gradient.asset
+  artifactKey: Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New TMP Color Gradient.asset using Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6217c15b8557aa81812603867c02bcbf') in 0.008275 seconds 
+  Import took 0.010180 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Building Blocks/Furniture Set/doorway.fbx
-  artifactKey: Guid(06e0a25bbf03ee548bf4a7068e7a3daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/doorway.fbx using Guid(06e0a25bbf03ee548bf4a7068e7a3daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0867f7229317cae1924196cd6f290a7e') in 0.022574 seconds 
-  Import took 0.024314 seconds .
+  Time since last request: 13.111792 seconds.
+  path: Assets/Dark.asset
+  artifactKey: Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dark.asset using Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d5445074a99e8206b3ca75da5ae150') in 0.005558 seconds 
+  Import took 0.007398 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableRound.fbx
-  artifactKey: Guid(5722af305ea3e7545bc7adc74c588e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableRound.fbx using Guid(5722af305ea3e7545bc7adc74c588e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9244ca31fd34674a79b983c2d61dd97a') in 0.014209 seconds 
-  Import took 0.015943 seconds .
+  Time since last request: 281.526981 seconds.
+  path: Assets/Dark.asset
+  artifactKey: Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dark.asset using Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4ef3570b75adc90debc9c312b5fe3b') in 0.002193 seconds 
+  Import took 0.004459 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Building Blocks/Furniture Set/televisionVintage.fbx
-  artifactKey: Guid(53383cb87f1e74f43b29c5d76ca960df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/televisionVintage.fbx using Guid(53383cb87f1e74f43b29c5d76ca960df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b243cde9c3f6de76f6c5a4c493f26d0') in 0.021900 seconds 
-  Import took 0.023596 seconds .
+  Time since last request: 26.444918 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.050311 seconds 
+  Import took 0.052283 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Building Blocks/Furniture Set/floorCorner.fbx
-  artifactKey: Guid(9ae07f1ea1b2b994b8d1217ee862c45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/floorCorner.fbx using Guid(9ae07f1ea1b2b994b8d1217ee862c45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83442b522b3f846ea2bea08ef68fdbb2') in 0.013034 seconds 
-  Import took 0.014716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/Building Blocks/Furniture Set/bathroomSinkSquare.fbx
-  artifactKey: Guid(f6f049c5cae0d24418fb70a88614938d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bathroomSinkSquare.fbx using Guid(f6f049c5cae0d24418fb70a88614938d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462cf982afff3c061a675cc9be11ccd0') in 0.019159 seconds 
-  Import took 0.020880 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Building Blocks/Furniture Set/chairCushion.fbx
-  artifactKey: Guid(a2642e59997d0fb47950f31160dbee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/chairCushion.fbx using Guid(a2642e59997d0fb47950f31160dbee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd588c85646c901a1440a138143c64a5') in 0.017618 seconds 
-  Import took 0.019396 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/Building Blocks/Furniture Set/radio.fbx
-  artifactKey: Guid(3690e5eac3cfc1a48938f2e9c0d90294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/radio.fbx using Guid(3690e5eac3cfc1a48938f2e9c0d90294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e4d5d699909dfd69e07f6c557652b3') in 0.019390 seconds 
-  Import took 0.021194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Building Blocks/Furniture Set/books.fbx
-  artifactKey: Guid(5bc879724f05c8e4ebb3e4ce21dc85c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/books.fbx using Guid(5bc879724f05c8e4ebb3e4ce21dc85c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b228b30eefaf5a18476f2542ea20ecc') in 0.022453 seconds 
-  Import took 0.024379 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Building Blocks/Furniture Set/stairsOpenSingle.fbx
-  artifactKey: Guid(59600976cb0946a43bd2b1174baf1963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/stairsOpenSingle.fbx using Guid(59600976cb0946a43bd2b1174baf1963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32daeaa3908032e0e8d6b97a382f973') in 0.020529 seconds 
-  Import took 0.022337 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/laptop.fbx
-  artifactKey: Guid(a3ca2aa544f5e9248bb9fa951496c3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/laptop.fbx using Guid(a3ca2aa544f5e9248bb9fa951496c3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d00d8cd3a2ae3f6db91c7faaf485dd') in 0.019288 seconds 
-  Import took 0.020962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000125 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetUpperLow.fbx
-  artifactKey: Guid(7f2161fc0bedf864c9fc167f5b5f9680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetUpperLow.fbx using Guid(7f2161fc0bedf864c9fc167f5b5f9680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31601ca04c5b11673292debc8e4b3ef5') in 0.024427 seconds 
-  Import took 0.026126 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Building Blocks/Furniture Set/trashcan.fbx
-  artifactKey: Guid(76f4d7d886927dd4abf99ccd9993ecd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/trashcan.fbx using Guid(76f4d7d886927dd4abf99ccd9993ecd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d43b670f1c12150b46ba82f3b993ac6') in 0.016800 seconds 
-  Import took 0.018526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/Building Blocks/Furniture Set/doorwayFront.fbx
-  artifactKey: Guid(c571234e6a42fb94d86367fc52f290c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/doorwayFront.fbx using Guid(c571234e6a42fb94d86367fc52f290c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52834823f3400930e781746cbd020ff') in 0.027290 seconds 
-  Import took 0.029017 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Building Blocks/Furniture Set/hoodModern.fbx
-  artifactKey: Guid(707ec590e4ce4bb41abdc2dbefe996c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/hoodModern.fbx using Guid(707ec590e4ce4bb41abdc2dbefe996c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315539c882ebf2284f21b25733a25700') in 0.016505 seconds 
-  Import took 0.018196 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Building Blocks/Furniture Set/rugRound.fbx
-  artifactKey: Guid(25b826c5614b4f84ab3886ff5de8dd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/rugRound.fbx using Guid(25b826c5614b4f84ab3886ff5de8dd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee85771e1e1b3f302c6dda5fc8d0237') in 0.016150 seconds 
-  Import took 0.017876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Building Blocks/Furniture Set/plantSmall3.fbx
-  artifactKey: Guid(e1bceb818b72dd44d856fef04ab60518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/plantSmall3.fbx using Guid(e1bceb818b72dd44d856fef04ab60518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2157cad8612362d3f0c5fd652fe7d166') in 0.018157 seconds 
-  Import took 0.019927 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCoffeeSquare.fbx
-  artifactKey: Guid(5b79df5368bc77846ac317178f63adcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCoffeeSquare.fbx using Guid(5b79df5368bc77846ac317178f63adcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e815d83b4b99f55647cfd8897242ac') in 0.014428 seconds 
-  Import took 0.016234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Building Blocks/Furniture Set/rugRectangle.fbx
-  artifactKey: Guid(731a26614027650468c989bfdca0f2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/rugRectangle.fbx using Guid(731a26614027650468c989bfdca0f2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3f4b0a99e2fb98d903a3a9761f18b4') in 0.018940 seconds 
-  Import took 0.020791 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Building Blocks/Furniture Set/lampRoundTable.fbx
-  artifactKey: Guid(fa94705b2d7cf9a47975cd11d7319c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/lampRoundTable.fbx using Guid(fa94705b2d7cf9a47975cd11d7319c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc4c558db6f59c225c0a506fbbc1ec1') in 0.018395 seconds 
-  Import took 0.020170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/Building Blocks/Furniture Set/benchCushion.fbx
-  artifactKey: Guid(3ab1427633abc6940ac9ca0910738f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/benchCushion.fbx using Guid(3ab1427633abc6940ac9ca0910738f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b07e68355ef5fe60126de98eb188c0') in 0.017531 seconds 
-  Import took 0.019278 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/Building Blocks/Furniture Set/cabinetTelevision.fbx
-  artifactKey: Guid(7129421c5fb773c4b8fa1011c1406fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cabinetTelevision.fbx using Guid(7129421c5fb773c4b8fa1011c1406fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213211ed1a49f984f6232cea5094f364') in 0.015201 seconds 
-  Import took 0.016937 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenMicrowave.fbx
-  artifactKey: Guid(51b60e28da289e141b0da75f0621262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenMicrowave.fbx using Guid(51b60e28da289e141b0da75f0621262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a71624a17ae3e8df10b9c4ee151b86d') in 0.024610 seconds 
-  Import took 0.026498 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetDrawer.fbx
-  artifactKey: Guid(e124dbf2b8990a34ab8eccfef6fa062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetDrawer.fbx using Guid(e124dbf2b8990a34ab8eccfef6fa062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259345628421169e650d5f6d87eda91c') in 0.026861 seconds 
-  Import took 0.028624 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Building Blocks/Furniture Set/wall.fbx
-  artifactKey: Guid(8096d6904ee9a7f4c9c552492cd05ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wall.fbx using Guid(8096d6904ee9a7f4c9c552492cd05ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f8a584fa76d3582284e512cd1f7583') in 0.019192 seconds 
-  Import took 0.020917 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Building Blocks/Furniture Set/lampSquareFloor.fbx
-  artifactKey: Guid(e6ad922bbdd2eff4ebbadfe13f2343cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/lampSquareFloor.fbx using Guid(e6ad922bbdd2eff4ebbadfe13f2343cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1b7d03441ba20127f934a973f158cb') in 0.016976 seconds 
-  Import took 0.018800 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Building Blocks/Furniture Set/toilet.fbx
-  artifactKey: Guid(5b6f3cbb5a63eab4b80cc8cb5ae89d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/toilet.fbx using Guid(5b6f3cbb5a63eab4b80cc8cb5ae89d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11c104c238692c2a885c290d864fa3e') in 0.023650 seconds 
-  Import took 0.025361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Building Blocks/Furniture Set/toiletSquare.fbx
-  artifactKey: Guid(f2e42f39055b9c44eba7f4d4d0e41a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/toiletSquare.fbx using Guid(f2e42f39055b9c44eba7f4d4d0e41a7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7ed48c69b65af34c75cfcb2bfc9afc') in 0.019266 seconds 
-  Import took 0.021000 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetUpperDouble.fbx
-  artifactKey: Guid(7839608076935ee4e902dcdee485b6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetUpperDouble.fbx using Guid(7839608076935ee4e902dcdee485b6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96bc35f78436b0a9b199f1345f8239a') in 0.024112 seconds 
-  Import took 0.025838 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallWindowSlide.fbx
-  artifactKey: Guid(4e23811b55f950543b623393ac866600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallWindowSlide.fbx using Guid(4e23811b55f950543b623393ac866600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7a87fb5867948e9c13d0fd9e60efc6') in 0.027991 seconds 
-  Import took 0.029702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Building Blocks/Furniture Set/bookcaseClosedDoors.fbx
-  artifactKey: Guid(9e796bfc796baa049912707bc0bbdd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bookcaseClosedDoors.fbx using Guid(9e796bfc796baa049912707bc0bbdd20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce65fc6bb0e22c7cd0b38160a6b0e199') in 0.024051 seconds 
-  Import took 0.025750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Building Blocks/Furniture Set/computerKeyboard.fbx
-  artifactKey: Guid(142774252b2c39a40884cb1f46567739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/computerKeyboard.fbx using Guid(142774252b2c39a40884cb1f46567739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791f872db31a1b77d7db5200cae82526') in 0.015472 seconds 
-  Import took 0.017254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenBar.fbx
-  artifactKey: Guid(15cd54a5f91279e4a8c11e81b4f8d124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenBar.fbx using Guid(15cd54a5f91279e4a8c11e81b4f8d124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f020721fd095e54009006a7284e67482') in 0.019962 seconds 
-  Import took 0.021678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallCorner.fbx
-  artifactKey: Guid(e4600f60c99886b45b21d43e008e72c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallCorner.fbx using Guid(e4600f60c99886b45b21d43e008e72c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b94ecfeda1462e1c23c7be970d5f5b9') in 0.017828 seconds 
-  Import took 0.020015 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Building Blocks/Furniture Set/washerDryerStacked.fbx
-  artifactKey: Guid(f405d0e5763a64f429e65d52553368ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/washerDryerStacked.fbx using Guid(f405d0e5763a64f429e65d52553368ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585dbcfb13304c4a0269805541b9aac3') in 0.033191 seconds 
-  Import took 0.034933 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/Building Blocks/Furniture Set/cabinetBedDrawer.fbx
-  artifactKey: Guid(91793b65a4356344081b09d493524bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cabinetBedDrawer.fbx using Guid(91793b65a4356344081b09d493524bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0b8f827fdb0521454e5c8899e45ea6') in 0.028219 seconds 
-  Import took 0.029944 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/Building Blocks/Furniture Set/chair.fbx
-  artifactKey: Guid(488e797575688c94ba812550fef40815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/chair.fbx using Guid(488e797575688c94ba812550fef40815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704ad732271deec239d5fb68ca11b7e2') in 0.012882 seconds 
-  Import took 0.014585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000127 seconds.
-  path: Assets/Building Blocks/Furniture Set/paneling.fbx
-  artifactKey: Guid(79f01821ca76e5940be2fb9f15e8ff16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/paneling.fbx using Guid(79f01821ca76e5940be2fb9f15e8ff16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7cd39c73b2685da1107abe83836b0d') in 0.012438 seconds 
-  Import took 0.014109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Building Blocks/Furniture Set/bear.fbx
-  artifactKey: Guid(45a3341c244f00a4ba9d9adfed432d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bear.fbx using Guid(45a3341c244f00a4ba9d9adfed432d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1d6938b2df5e2f4dd7ec32f62f31b7') in 0.018169 seconds 
-  Import took 0.019888 seconds .
+  Time since last request: 0.000185 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.020919 seconds 
+  Import took 0.022697 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000152 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenStove.fbx
-  artifactKey: Guid(f2b8daca64de8fc4f9e7ee392cc65ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenStove.fbx using Guid(f2b8daca64de8fc4f9e7ee392cc65ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae84de74de60ee905665e77a7d0cfb3') in 0.025818 seconds 
-  Import took 0.027570 seconds .
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.103175 seconds 
+  Import took 0.104992 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000141 seconds.
-  path: Assets/Building Blocks/Furniture Set/cardboardBoxOpen.fbx
-  artifactKey: Guid(645674ed1bc91bb4ca5875549c0e5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cardboardBoxOpen.fbx using Guid(645674ed1bc91bb4ca5875549c0e5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b703406a4a8c096d8c051aae802c9161') in 0.015866 seconds 
-  Import took 0.017535 seconds .
+  Time since last request: 0.000164 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4868b38f5dac047c242ad2bcd26f78c8') in 0.025918 seconds 
+  Import took 0.027695 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Building Blocks/Furniture Set/speaker.fbx
-  artifactKey: Guid(b298452a18d1fc747af10c70e1451333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/speaker.fbx using Guid(b298452a18d1fc747af10c70e1451333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95604d46ee75d599916a642cdb2f2f9a') in 0.015864 seconds 
-  Import took 0.017586 seconds .
+  Time since last request: 1130.310418 seconds.
+  path: Assets/CHILLER.TTF
+  artifactKey: Guid(85251a4ad1de3ae48a5a5a0ff03f65d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CHILLER.TTF using Guid(85251a4ad1de3ae48a5a5a0ff03f65d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0454f76a5a8630e5dff624a2fe730f') in 0.014180 seconds 
+  Import took 0.016417 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/stoolBarSquare.fbx
-  artifactKey: Guid(d2db45ab0644cf94695674c4a6b831be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/stoolBarSquare.fbx using Guid(d2db45ab0644cf94695674c4a6b831be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983ba72e5f549f2019c04aa09c888c77') in 0.015086 seconds 
-  Import took 0.016807 seconds .
+  Time since last request: 439.717186 seconds.
+  path: Assets/Building Blocks/Fantasy Town/bannerGreen.fbx
+  artifactKey: Guid(7bd494bdd31ef4740a640e8e5205554e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/bannerGreen.fbx using Guid(7bd494bdd31ef4740a640e8e5205554e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fe0e12bbb4ad5441baae36ba46d4d6') in 0.027930 seconds 
+  Import took 0.030388 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetCornerInner.fbx
-  artifactKey: Guid(e7ca96146d615b44b9654bfb77400935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetCornerInner.fbx using Guid(e7ca96146d615b44b9654bfb77400935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ef59466366a1b82bd03d5fe90b0fbd') in 0.015281 seconds 
-  Import took 0.016967 seconds .
+  Time since last request: 0.000243 seconds.
+  path: Assets/Building Blocks/Fantasy Town/chimneyBase.fbx
+  artifactKey: Guid(5a1a8288addf99448911e4bb8bb279b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/chimneyBase.fbx using Guid(5a1a8288addf99448911e4bb8bb279b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46045618a274843dd5b085d595b970f6') in 0.018547 seconds 
+  Import took 0.020158 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Building Blocks/Furniture Set/televisionAntenna.fbx
-  artifactKey: Guid(57e3c009950ef8c4fb899d2c7d46fb8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/televisionAntenna.fbx using Guid(57e3c009950ef8c4fb899d2c7d46fb8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f06771ebd15337fd4b6bd5af49f397d') in 0.013028 seconds 
-  Import took 0.014715 seconds .
+  Time since last request: 0.000199 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadEdgeSlope.fbx
+  artifactKey: Guid(6be7446ef5ced5c4b95818c02967b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadEdgeSlope.fbx using Guid(6be7446ef5ced5c4b95818c02967b05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74dd1720681436e0c813104d0e7d7bdc') in 0.016959 seconds 
+  Import took 0.018718 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenSink.fbx
-  artifactKey: Guid(7b670c3e247cd2541a8532feb7f604a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenSink.fbx using Guid(7b670c3e247cd2541a8532feb7f604a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a91f6097c5bf1fecc5f63019380dd1b') in 0.028140 seconds 
-  Import took 0.029925 seconds .
+  Time since last request: 0.000213 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainSquare.fbx
+  artifactKey: Guid(939e59496b32ffc46b6743428c23846a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainSquare.fbx using Guid(939e59496b32ffc46b6743428c23846a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490e2e03e8c114b7a891b39539d80770') in 0.019195 seconds 
+  Import took 0.020902 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/chairModernFrameCushion.fbx
-  artifactKey: Guid(3901992a6615d1547b7406c62814bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/chairModernFrameCushion.fbx using Guid(3901992a6615d1547b7406c62814bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa735bc1c80b966df787d3a1b29fe295') in 0.015522 seconds 
-  Import took 0.017171 seconds .
+  Time since last request: 0.000193 seconds.
+  path: Assets/Building Blocks/Fantasy Town/road.fbx
+  artifactKey: Guid(14e96e40eb43ff24188d857b85bd493a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/road.fbx using Guid(14e96e40eb43ff24188d857b85bd493a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abedaee2396063969cdb4ab3de0ed18') in 0.013595 seconds 
+  Import took 0.015218 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000145 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenBarEnd.fbx
-  artifactKey: Guid(ac7bd669b1dd8bc4586db9c444344ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenBarEnd.fbx using Guid(ac7bd669b1dd8bc4586db9c444344ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bc639f2a80fd7d01352aa7f065e45d') in 0.054806 seconds 
-  Import took 0.056680 seconds .
+  Time since last request: 0.000164 seconds.
+  path: Assets/Building Blocks/Fantasy Town/polesHorizontal.fbx
+  artifactKey: Guid(3809be4784b01fb44aa4f7cc745a3cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/polesHorizontal.fbx using Guid(3809be4784b01fb44aa4f7cc745a3cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beee24248e2433cecca19b8cc3d2371e') in 0.012540 seconds 
+  Import took 0.014235 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/Building Blocks/Furniture Set/floorCornerRound.fbx
-  artifactKey: Guid(d23e216c9bf5971459dc63c408eba735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/floorCornerRound.fbx using Guid(d23e216c9bf5971459dc63c408eba735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d5dbda1d0d8dfb81be2d7c746982a4') in 0.013077 seconds 
-  Import took 0.014850 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Building Blocks/Furniture Set/ceilingFan.fbx
-  artifactKey: Guid(43e1e889968aa2348896e7dbb0870dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/ceilingFan.fbx using Guid(43e1e889968aa2348896e7dbb0870dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c512fcc2dda1ca611fdc340ca3ac670f') in 0.018489 seconds 
-  Import took 0.020220 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/Building Blocks/Furniture Set/lampSquareTable.fbx
-  artifactKey: Guid(1e3a61f127b4aa24185f8be32db47604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/lampSquareTable.fbx using Guid(1e3a61f127b4aa24185f8be32db47604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f680f8d0f73616421327269370c6d1f') in 0.016844 seconds 
-  Import took 0.018617 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeSofaLong.fbx
-  artifactKey: Guid(e1eb2067256eb274aaeff9652a26e44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeSofaLong.fbx using Guid(e1eb2067256eb274aaeff9652a26e44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3060970451fc48112c5ea4e311c3a85f') in 0.015577 seconds 
-  Import took 0.017250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Building Blocks/Furniture Set/rugRounded.fbx
-  artifactKey: Guid(2ec23fb22fb026246a80208197c29f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/rugRounded.fbx using Guid(2ec23fb22fb026246a80208197c29f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961dd5c49d4662f000935b5bc1483031') in 0.014675 seconds 
-  Import took 0.016571 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Building Blocks/Furniture Set/desk.fbx
-  artifactKey: Guid(371d741a91ba0b24992243069d9911d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/desk.fbx using Guid(371d741a91ba0b24992243069d9911d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fabd9fd0814428da4b3e0b02a8a44d') in 0.020004 seconds 
-  Import took 0.021850 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeChairRelax.fbx
-  artifactKey: Guid(23fdf046862c93948b9a9f0aede9f5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeChairRelax.fbx using Guid(23fdf046862c93948b9a9f0aede9f5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23ebd0ce63a7fe686961b52c5f441bb') in 0.018376 seconds 
-  Import took 0.020137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Building Blocks/Furniture Set/plantSmall2.fbx
-  artifactKey: Guid(c7d175d9ec1d3a9438cd802a04b8d929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/plantSmall2.fbx using Guid(c7d175d9ec1d3a9438cd802a04b8d929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47cacc47c92eae621888ac5993c5689') in 0.015747 seconds 
-  Import took 0.017526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCrossCloth.fbx
-  artifactKey: Guid(8408a354786d8d946b3e4e145e7f24b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCrossCloth.fbx using Guid(8408a354786d8d946b3e4e145e7f24b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fe59cf36ad140afba759e276fee62f') in 0.015969 seconds 
-  Import took 0.017815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000136 seconds.
-  path: Assets/Building Blocks/Furniture Set/chairModernCushion.fbx
-  artifactKey: Guid(ae1fdf2fa02c96843b4e08f8b530b02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/chairModernCushion.fbx using Guid(ae1fdf2fa02c96843b4e08f8b530b02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d0ee2bdb3ce00f3ab6b162507def03') in 0.014724 seconds 
-  Import took 0.016460 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Building Blocks/Furniture Set/bookcaseOpenLow.fbx
-  artifactKey: Guid(c25d428e6dca30b4f942d2ce7369c705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bookcaseOpenLow.fbx using Guid(c25d428e6dca30b4f942d2ce7369c705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836400f6fbb60361a89cbdc6d8686ade') in 0.012934 seconds 
-  Import took 0.014616 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallDoorway.fbx
-  artifactKey: Guid(cbcd8bfd8482d844caaa38185e017706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallDoorway.fbx using Guid(cbcd8bfd8482d844caaa38185e017706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382671ca1730a5cfe00e508bded7d2fa') in 0.081167 seconds 
-  Import took 0.083084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/Building Blocks/Furniture Set/rugSquare.fbx
-  artifactKey: Guid(8db5f0b386936aa498a52925f40143ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/rugSquare.fbx using Guid(8db5f0b386936aa498a52925f40143ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ca4f2d9297763131c6e60677450540') in 0.018216 seconds 
-  Import took 0.020054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinet.fbx
-  artifactKey: Guid(583d9ada648ee1c4381295dc12afdbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinet.fbx using Guid(583d9ada648ee1c4381295dc12afdbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd42defc635d36d500e1a95a42efecb4f') in 0.021988 seconds 
-  Import took 0.023773 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000125 seconds.
-  path: Assets/Building Blocks/Furniture Set/pillowBlueLong.fbx
-  artifactKey: Guid(5412021399112a64f84f41c2725731cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/pillowBlueLong.fbx using Guid(5412021399112a64f84f41c2725731cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e21dae6e4cda06ef57030e2be7b63185') in 0.012856 seconds 
-  Import took 0.014786 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Building Blocks/Furniture Set/bedDouble.fbx
-  artifactKey: Guid(26cb2ae1b85271f4aadd6444e43bc45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bedDouble.fbx using Guid(26cb2ae1b85271f4aadd6444e43bc45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d27a92670d65d2530a6d51ac99a625') in 0.029968 seconds 
-  Import took 0.031769 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/Building Blocks/Furniture Set/plantSmall1.fbx
-  artifactKey: Guid(5f58a3f28a9409b4481fc121368452e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/plantSmall1.fbx using Guid(5f58a3f28a9409b4481fc121368452e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5507cb81e51d39f8491861f8d0436a32') in 0.016753 seconds 
-  Import took 0.018443 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Building Blocks/Furniture Set/pillowLong.fbx
-  artifactKey: Guid(5da0ff2d77a0a5d46b95df98bd1d9e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/pillowLong.fbx using Guid(5da0ff2d77a0a5d46b95df98bd1d9e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871258d8856c3ddf92048ad77d8f7fe9') in 0.012930 seconds 
-  Import took 0.014646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/stoolBar.fbx
-  artifactKey: Guid(76f9c2078287eea4f8576b0d0caf9781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/stoolBar.fbx using Guid(76f9c2078287eea4f8576b0d0caf9781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f44962b5fe1bf619811780ba82e8df6') in 0.016420 seconds 
-  Import took 0.018114 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Building Blocks/Furniture Set/shower.fbx
-  artifactKey: Guid(1a872576ae0e5734781aaff6e88c7625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/shower.fbx using Guid(1a872576ae0e5734781aaff6e88c7625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c603dc36eff30da85aa1a22f7c161411') in 0.028445 seconds 
-  Import took 0.030188 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeDesignSofa.fbx
-  artifactKey: Guid(621aa599e6a67894dbc30be149ced992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeDesignSofa.fbx using Guid(621aa599e6a67894dbc30be149ced992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea67b6b8be4c9108d8b55e869faad13') in 0.015657 seconds 
-  Import took 0.017376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/Building Blocks/Furniture Set/computerScreen.fbx
-  artifactKey: Guid(1fb762921f9b22b478ce6738c38809be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/computerScreen.fbx using Guid(1fb762921f9b22b478ce6738c38809be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfafa879bd79942a015f53bbe60d5cfe') in 0.015857 seconds 
-  Import took 0.017573 seconds .
+  Time since last request: 0.000215 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofGableTop.fbx
+  artifactKey: Guid(c6f7e3244aa1eaa469577beaacc167ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofGableTop.fbx using Guid(c6f7e3244aa1eaa469577beaacc167ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb22343bcad948b31838b59dbb8c1307') in 0.018883 seconds 
+  Import took 0.020605 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000149 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeDesignChair.fbx
-  artifactKey: Guid(f7abb5099eba83047aaddf16df015980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeDesignChair.fbx using Guid(f7abb5099eba83047aaddf16df015980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '397d9fcab541d1eff4e92d765fe1660f') in 0.015414 seconds 
-  Import took 0.017147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenFridgeLarge.fbx
-  artifactKey: Guid(0ea86b83ab6dc7549911f07fc4f7bd23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenFridgeLarge.fbx using Guid(0ea86b83ab6dc7549911f07fc4f7bd23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb9441f21fcbbc816601c98bd91d785') in 0.023646 seconds 
-  Import took 0.025402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Building Blocks/Furniture Set/bookcaseClosedWide.fbx
-  artifactKey: Guid(54f4a2cccc704994289984580db334cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bookcaseClosedWide.fbx using Guid(54f4a2cccc704994289984580db334cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8a4f46580697dcdeae36e6f79ebe15') in 0.013222 seconds 
-  Import took 0.014934 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Building Blocks/Furniture Set/coatRack.fbx
-  artifactKey: Guid(c67b61b4e52dd2f43807323fed5ba880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/coatRack.fbx using Guid(c67b61b4e52dd2f43807323fed5ba880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d585e67eff961270566fe8621894d94') in 0.015784 seconds 
-  Import took 0.017508 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Building Blocks/Furniture Set/benchCushionLow.fbx
-  artifactKey: Guid(eb0502e37f6528d44a77da6b07667244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/benchCushionLow.fbx using Guid(eb0502e37f6528d44a77da6b07667244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61228732425295bfbd22e4f7fb0f3d1e') in 0.017827 seconds 
-  Import took 0.019527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Building Blocks/Furniture Set/lampWall.fbx
-  artifactKey: Guid(a543f7a5d48670e4c89f3771b826c622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/lampWall.fbx using Guid(a543f7a5d48670e4c89f3771b826c622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c8deec2538e0000e00517dc3beebdc5') in 0.017282 seconds 
-  Import took 0.019093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000156 seconds.
-  path: Assets/Building Blocks/Furniture Set/bathtub.fbx
-  artifactKey: Guid(aed6679d2f7565040a56e111db4d3df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bathtub.fbx using Guid(aed6679d2f7565040a56e111db4d3df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d5d55ea6395962fc898a3838a1604c') in 0.019561 seconds 
-  Import took 0.021241 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Building Blocks/Furniture Set/pottedPlant.fbx
-  artifactKey: Guid(82f891203c723484b8245292b0009b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/pottedPlant.fbx using Guid(82f891203c723484b8245292b0009b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8167a95022c15204a475e4b4f9233b5c') in 0.022774 seconds 
-  Import took 0.024489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/lampRoundFloor.fbx
-  artifactKey: Guid(92114985f8d67d54797c0aad5cb5abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/lampRoundFloor.fbx using Guid(92114985f8d67d54797c0aad5cb5abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c971e34ec088917e34a5ddb053eadfae') in 0.017342 seconds 
-  Import took 0.019090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Building Blocks/Furniture Set/pillowBlue.fbx
-  artifactKey: Guid(da6dc100f82040846a833100e9ce1d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/pillowBlue.fbx using Guid(da6dc100f82040846a833100e9ce1d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c174440b59045768953519147fcb706c') in 0.013735 seconds 
-  Import took 0.015441 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Building Blocks/Furniture Set/bathroomMirror.fbx
-  artifactKey: Guid(568fb489d838a9849b4708e415fbb4e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bathroomMirror.fbx using Guid(568fb489d838a9849b4708e415fbb4e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438810744db60c0b6e06a6001d4fc712') in 0.018781 seconds 
-  Import took 0.020536 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Building Blocks/Furniture Set/deskCorner.fbx
-  artifactKey: Guid(83e066a155c78eb45afadd02b7c8aacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/deskCorner.fbx using Guid(83e066a155c78eb45afadd02b7c8aacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7486e539498160ba5f22121fd2712c06') in 0.020560 seconds 
-  Import took 0.022358 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeSofa.fbx
-  artifactKey: Guid(6b4b7442d58f6994ba43648e114b261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeSofa.fbx using Guid(6b4b7442d58f6994ba43648e114b261d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9fa4d5be7702c5e16da15198199b2f') in 0.016806 seconds 
-  Import took 0.018509 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/Building Blocks/Furniture Set/bathroomCabinet.fbx
-  artifactKey: Guid(b0869c8b7f31fac4d873028cbe001f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bathroomCabinet.fbx using Guid(b0869c8b7f31fac4d873028cbe001f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18fe22120a319fb69747d06abfccb2d9') in 0.021952 seconds 
-  Import took 0.023689 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCoffeeGlassSquare.fbx
-  artifactKey: Guid(e3536c118d1316144ad3d47624af34fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCoffeeGlassSquare.fbx using Guid(e3536c118d1316144ad3d47624af34fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824d0359485d0830621bde4cef5a3b12') in 0.015279 seconds 
-  Import took 0.017060 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCross.fbx
-  artifactKey: Guid(52212b989a11a5e458b1222e9d572586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCross.fbx using Guid(52212b989a11a5e458b1222e9d572586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e446ba0b95c0308b2ca9026419f87066') in 0.013591 seconds 
-  Import took 0.015310 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallHalf.fbx
-  artifactKey: Guid(dc400772e0ce8a645a9ef70fed6b8d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallHalf.fbx using Guid(dc400772e0ce8a645a9ef70fed6b8d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b00249ff7914d2fbb998968a6472ff18') in 0.017490 seconds 
-  Import took 0.019222 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/Building Blocks/Furniture Set/bedSingle.fbx
-  artifactKey: Guid(5c98dd0650afb06478b1c425a528c90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bedSingle.fbx using Guid(5c98dd0650afb06478b1c425a528c90b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151767e78e43e8e3fb7666489f8ec0bc') in 0.029365 seconds 
-  Import took 0.031132 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000157 seconds.
-  path: Assets/Building Blocks/Furniture Set/washer.fbx
-  artifactKey: Guid(1dfed7c2e2457ee469b1684c88256e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/washer.fbx using Guid(1dfed7c2e2457ee469b1684c88256e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d24de1d492c187c0c916269d6147ee') in 0.028483 seconds 
-  Import took 0.030200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/bookcaseOpen.fbx
-  artifactKey: Guid(2578023e8c5bf8646833fc04b3cb709e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bookcaseOpen.fbx using Guid(2578023e8c5bf8646833fc04b3cb709e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b23760442b72fdcb002b7fa078e6c6') in 0.014547 seconds 
-  Import took 0.016272 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Building Blocks/Furniture Set/bench.fbx
-  artifactKey: Guid(f9c263e94dab15646a5d0718c1976a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bench.fbx using Guid(f9c263e94dab15646a5d0718c1976a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2eac63930ed47ef9ce0c140027ecbd') in 0.014076 seconds 
-  Import took 0.015793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/Building Blocks/Furniture Set/sideTable.fbx
-  artifactKey: Guid(c905d22990fd7404aaa0bf32aa9d8592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/sideTable.fbx using Guid(c905d22990fd7404aaa0bf32aa9d8592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a93943f7a602d6701c3cb46b46404e9') in 0.015247 seconds 
-  Import took 0.016940 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Building Blocks/Furniture Set/stairsOpen.fbx
-  artifactKey: Guid(d49194d5389c79b4ca0ec09691c49455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/stairsOpen.fbx using Guid(d49194d5389c79b4ca0ec09691c49455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585ec0a24cd70c497f25988dad002f71') in 0.029607 seconds 
-  Import took 0.031402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/floorHalf.fbx
-  artifactKey: Guid(2c1f735a5f2e3474894fda3e06d9176c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/floorHalf.fbx using Guid(2c1f735a5f2e3474894fda3e06d9176c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf9ccd4f0b593cb0793025f2d60ca66') in 0.012887 seconds 
-  Import took 0.014601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000121 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenStoveElectric.fbx
-  artifactKey: Guid(4a156306d9d41134bb3d5ab40c6bc617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenStoveElectric.fbx using Guid(4a156306d9d41134bb3d5ab40c6bc617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8c59d8ebdcc903ee6f784f101208d3') in 0.024266 seconds 
-  Import took 0.026089 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000138 seconds.
-  path: Assets/Building Blocks/Furniture Set/speakerSmall.fbx
-  artifactKey: Guid(26edf990c3a0e3447bd024ba7412a63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/speakerSmall.fbx using Guid(26edf990c3a0e3447bd024ba7412a63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb1f8ffc14d993a326594e69894ff38') in 0.016278 seconds 
-  Import took 0.018073 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/Building Blocks/Furniture Set/lampSquareCeiling.fbx
-  artifactKey: Guid(98d8bfa9170cdc74787e74833b27913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/lampSquareCeiling.fbx using Guid(98d8bfa9170cdc74787e74833b27913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d04e6e7da0fb8b6b011a465f9005041') in 0.016890 seconds 
-  Import took 0.018779 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000158 seconds.
-  path: Assets/Building Blocks/Furniture Set/dryer.fbx
-  artifactKey: Guid(1df8941c7b0f66d418d3e67cc8aeab2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/dryer.fbx using Guid(1df8941c7b0f66d418d3e67cc8aeab2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90fc9935c1e362ffe964d6432d177011') in 0.023671 seconds 
-  Import took 0.025440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/chairRounded.fbx
-  artifactKey: Guid(9c6e88908321a7e4298fc6680a553cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/chairRounded.fbx using Guid(9c6e88908321a7e4298fc6680a553cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d4002f0558f1c5870ec37752cac698') in 0.013170 seconds 
-  Import took 0.014943 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000129 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetUpperCorner.fbx
-  artifactKey: Guid(366a3291a36cb09408e1e42750d793b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetUpperCorner.fbx using Guid(366a3291a36cb09408e1e42750d793b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f63c2a00ac51b77cf586fad4d65274f') in 0.013950 seconds 
-  Import took 0.015779 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCoffee.fbx
-  artifactKey: Guid(a406fd5bcb7c5d649a22b42c27d0f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCoffee.fbx using Guid(a406fd5bcb7c5d649a22b42c27d0f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd060a52147232ea7601a8a5f3ca2631') in 0.013086 seconds 
-  Import took 0.015004 seconds .
+  path: Assets/Building Blocks/Fantasy Town/pillarStone.fbx
+  artifactKey: Guid(99fae960f8bc5144ba34bc3b81ce2375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/pillarStone.fbx using Guid(99fae960f8bc5144ba34bc3b81ce2375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2df14fac91f775df36652c028d1f72e') in 0.015539 seconds 
+  Import took 0.017184 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000127 seconds.
-  path: Assets/Building Blocks/Furniture Set/table.fbx
-  artifactKey: Guid(4b3088bded9442b4e932d1f4d999bb12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/table.fbx using Guid(4b3088bded9442b4e932d1f4d999bb12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062183893df989d0d70770b7a3247a7c') in 0.013436 seconds 
-  Import took 0.015251 seconds .
+  path: Assets/Building Blocks/Fantasy Town/rockSmall.fbx
+  artifactKey: Guid(101895d94cf2db44880c34ec67114998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/rockSmall.fbx using Guid(101895d94cf2db44880c34ec67114998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022d0288d6993d589fbf6bd5f93bac80') in 0.012907 seconds 
+  Import took 0.014618 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableGlass.fbx
-  artifactKey: Guid(b2f9d931231edb740b3c11afd53c21bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableGlass.fbx using Guid(b2f9d931231edb740b3c11afd53c21bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f6919de41b6518c2945e47f5ee5d8c') in 0.015125 seconds 
-  Import took 0.016817 seconds .
+  Time since last request: 0.000154 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighWindow.fbx
+  artifactKey: Guid(cae32cc175d7a624cabb406f7bc1662a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighWindow.fbx using Guid(cae32cc175d7a624cabb406f7bc1662a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865390590fa9a841998f19b250ec828b') in 0.019328 seconds 
+  Import took 0.020978 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000162 seconds.
-  path: Assets/Building Blocks/Furniture Set/cabinetBedDrawerTable.fbx
-  artifactKey: Guid(269a5eaf119bd27418e3b18e6466db31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cabinetBedDrawerTable.fbx using Guid(269a5eaf119bd27418e3b18e6466db31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766de8446aa6b93919dbaeabf418c0c8') in 0.022344 seconds 
-  Import took 0.024117 seconds .
+  Time since last request: 0.000184 seconds.
+  path: Assets/Building Blocks/Fantasy Town/rockWide.fbx
+  artifactKey: Guid(570e1f4ec53d85e468255771c5fee10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/rockWide.fbx using Guid(570e1f4ec53d85e468255771c5fee10a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efaca097537d50a98604169794fcb41d') in 0.013940 seconds 
+  Import took 0.015662 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/Building Blocks/Furniture Set/hoodLarge.fbx
-  artifactKey: Guid(09f933d47a7621e44a841447a1a16804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/hoodLarge.fbx using Guid(09f933d47a7621e44a841447a1a16804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8996763e96a5acabf183345264976df') in 0.015696 seconds 
-  Import took 0.017378 seconds .
+  Time since last request: 0.000172 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadCorner.fbx
+  artifactKey: Guid(5f3058fae49603d4580ba4b58073cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadCorner.fbx using Guid(5f3058fae49603d4580ba4b58073cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e47f5be809672ff4c2aac8cc3fd2c3c') in 0.015409 seconds 
+  Import took 0.017085 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Building Blocks/Furniture Set/sideTableDrawers.fbx
-  artifactKey: Guid(1b47fb1efefb85c4fbb203c808f519d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/sideTableDrawers.fbx using Guid(1b47fb1efefb85c4fbb203c808f519d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c93bb69e6c1a5465195682e4befc4d2') in 0.026700 seconds 
-  Import took 0.028424 seconds .
+  Time since last request: 0.000189 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fenceBroken.fbx
+  artifactKey: Guid(1cc855ed4921fbd42bc13df054582eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fenceBroken.fbx using Guid(1cc855ed4921fbd42bc13df054582eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c502e72e688823b93fd6d20c3bb09ba') in 0.016919 seconds 
+  Import took 0.018730 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Building Blocks/Furniture Set/toaster.fbx
-  artifactKey: Guid(d655835c5c801ea44a163b233bf2deb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/toaster.fbx using Guid(d655835c5c801ea44a163b233bf2deb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c41ccf3d2f5f04542087ae61c8fcf7') in 0.015620 seconds 
-  Import took 0.017350 seconds .
+  Time since last request: 0.000135 seconds.
+  path: Assets/Building Blocks/Fantasy Town/rockLarge.fbx
+  artifactKey: Guid(5681c10a1ac190741a04a939a14ba9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/rockLarge.fbx using Guid(5681c10a1ac190741a04a939a14ba9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13471c4e85bf5ebb6ae4ddfd2b4e7c9c') in 0.012970 seconds 
+  Import took 0.014633 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeDesignSofaCorner.fbx
-  artifactKey: Guid(36d140aa419b9324b8a9c4e3c446a394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeDesignSofaCorner.fbx using Guid(36d140aa419b9324b8a9c4e3c446a394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d424bf6f2c175efe2ad25fdf27c3e2') in 0.020112 seconds 
-  Import took 0.021828 seconds .
+  Time since last request: 0.000144 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofCornerInner.fbx
+  artifactKey: Guid(f116e5ea43ab5c549a52221c874a693a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofCornerInner.fbx using Guid(f116e5ea43ab5c549a52221c874a693a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a580dc22abf4f5d4fafa93c14f8084f3') in 0.018773 seconds 
+  Import took 0.020424 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenFridgeSmall.fbx
-  artifactKey: Guid(0a84e64277d14684aa2e1395a8ab5d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenFridgeSmall.fbx using Guid(0a84e64277d14684aa2e1395a8ab5d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d24b3f6e9b408ee8762d11699f5724f') in 0.024946 seconds 
-  Import took 0.026887 seconds .
+  Time since last request: 0.000161 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighLeft.fbx
+  artifactKey: Guid(db22d0af01260054e859fef8816ef4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighLeft.fbx using Guid(db22d0af01260054e859fef8816ef4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fdf03fe76066f75f5b553e8caac2c8f') in 0.019399 seconds 
+  Import took 0.021093 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetUpper.fbx
-  artifactKey: Guid(a020ee5f56fecef47bb50df314426e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetUpper.fbx using Guid(a020ee5f56fecef47bb50df314426e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c15d45d975a95621dca1e12910d219') in 0.022347 seconds 
-  Import took 0.024073 seconds .
+  Time since last request: 0.000204 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofWindow.fbx
+  artifactKey: Guid(419914111b108d24e9acb4ee7fd7c311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofWindow.fbx using Guid(419914111b108d24e9acb4ee7fd7c311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e9733e9217537d9c07c62d8a86c170') in 0.024669 seconds 
+  Import took 0.026348 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000108 seconds.
-  path: Assets/Building Blocks/Furniture Set/chairDesk.fbx
-  artifactKey: Guid(74c25d15ad5b43b44ab4fd7d34f693cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/chairDesk.fbx using Guid(74c25d15ad5b43b44ab4fd7d34f693cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743b8a6e79fc7b48ec880eb893b9fa93') in 0.019430 seconds 
-  Import took 0.021172 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/Building Blocks/Furniture Set/doorwayOpen.fbx
-  artifactKey: Guid(22463f215abe3e740899434823f16527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/doorwayOpen.fbx using Guid(22463f215abe3e740899434823f16527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5838de6156ef095c3ff2b40e275162d1') in 0.014164 seconds 
-  Import took 0.015825 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCabinetCornerRound.fbx
-  artifactKey: Guid(896d3cbad07e10e45926997936135338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCabinetCornerRound.fbx using Guid(896d3cbad07e10e45926997936135338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe9b6c125ff620a363e5e5b6b07017c') in 0.014837 seconds 
-  Import took 0.016530 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/Building Blocks/Furniture Set/cabinetBed.fbx
-  artifactKey: Guid(41e9eba403344d04984f0303516a2457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cabinetBed.fbx using Guid(41e9eba403344d04984f0303516a2457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121ee4e8e1f6f91f6f86556afb7a395b') in 0.018673 seconds 
-  Import took 0.020417 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/Building Blocks/Furniture Set/tableCoffeeGlass.fbx
-  artifactKey: Guid(8050aa1cb552e364a90cb665a7f3d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/tableCoffeeGlass.fbx using Guid(8050aa1cb552e364a90cb665a7f3d2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea8c3179a6945f77efbcfc959bf5d89') in 0.014799 seconds 
-  Import took 0.016504 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Building Blocks/Furniture Set/rugDoormat.fbx
-  artifactKey: Guid(26284b1bf8e917d418b0362c7d1d8de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/rugDoormat.fbx using Guid(26284b1bf8e917d418b0362c7d1d8de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d39abdb56436ed63be9511cba5f5256') in 0.012774 seconds 
-  Import took 0.014460 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000142 seconds.
-  path: Assets/Building Blocks/Furniture Set/computerMouse.fbx
-  artifactKey: Guid(0ebeb1b7652bfdb46b88310b690a0c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/computerMouse.fbx using Guid(0ebeb1b7652bfdb46b88310b690a0c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb1dfe60dc79b3de0314ad97e0dc701') in 0.012920 seconds 
-  Import took 0.014626 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenBlender.fbx
-  artifactKey: Guid(e0999e9d44664554bb7f11a60b3d1cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenBlender.fbx using Guid(e0999e9d44664554bb7f11a60b3d1cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1460de73a0cb0dcc9131fb6bf15e34d7') in 0.025995 seconds 
-  Import took 0.027810 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Building Blocks/Furniture Set/bathroomCabinetDrawer.fbx
-  artifactKey: Guid(ec05756d5b9624b49adab093d74ad4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bathroomCabinetDrawer.fbx using Guid(ec05756d5b9624b49adab093d74ad4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86e1a3367be0e313fa1482527692923') in 0.027770 seconds 
-  Import took 0.029525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/Building Blocks/Furniture Set/cabinetTelevisionDoors.fbx
-  artifactKey: Guid(890444530a5deb34392a0a90a2d8ba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cabinetTelevisionDoors.fbx using Guid(890444530a5deb34392a0a90a2d8ba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de62b573d5b32e1a155f33e3313727fd') in 0.023349 seconds 
-  Import took 0.025063 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeSofaOttoman.fbx
-  artifactKey: Guid(838a73ac63c522644b58197d0eb26bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeSofaOttoman.fbx using Guid(838a73ac63c522644b58197d0eb26bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b962ba4c54bc6674c761629a5f4e6736') in 0.015570 seconds 
-  Import took 0.017236 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/Building Blocks/Furniture Set/cardboardBoxClosed.fbx
-  artifactKey: Guid(ff194d2de206391489e8ffaeef846e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/cardboardBoxClosed.fbx using Guid(ff194d2de206391489e8ffaeef846e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc9e48b49a9b5dde7207fdf1c538082') in 0.014936 seconds 
-  Import took 0.016650 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Building Blocks/Furniture Set/floorFull.fbx
-  artifactKey: Guid(f2f032d39db0b844a89d302003753bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/floorFull.fbx using Guid(f2f032d39db0b844a89d302003753bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e9c34e6d30181ed1ce78d27ffdbe5f') in 0.013010 seconds 
-  Import took 0.015121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallDoorwayWide.fbx
-  artifactKey: Guid(3c6c7f4741920844fad28336442abd3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallDoorwayWide.fbx using Guid(3c6c7f4741920844fad28336442abd3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6536cfdf73ab73abd7b873e0ab05ac') in 0.017516 seconds 
-  Import took 0.019259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001039 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenFridgeBuiltIn.fbx
-  artifactKey: Guid(b610fcc8a1055404cb3230ab64841b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenFridgeBuiltIn.fbx using Guid(b610fcc8a1055404cb3230ab64841b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6653bffd9a1a7868130e665a0062a00') in 0.032108 seconds 
-  Import took 0.033975 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000176 seconds.
-  path: Assets/Building Blocks/Furniture Set/stairsCorner.fbx
-  artifactKey: Guid(cd27376a5d116ac409e0a06deaabfee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/stairsCorner.fbx using Guid(cd27376a5d116ac409e0a06deaabfee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a721fedce7c75c0300da6f16d5d96a') in 0.016785 seconds 
-  Import took 0.018548 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenCoffeeMachine.fbx
-  artifactKey: Guid(c2622bde52a710b4fa71e85c44149dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenCoffeeMachine.fbx using Guid(c2622bde52a710b4fa71e85c44149dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7b6f92a42091d678f24aafc947a390') in 0.020551 seconds 
-  Import took 0.022261 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/Building Blocks/Furniture Set/showerRound.fbx
-  artifactKey: Guid(d0fd21dc5a82d7c4cb94060a6bb15319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/showerRound.fbx using Guid(d0fd21dc5a82d7c4cb94060a6bb15319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe62662449f91c34e1afbb28ef4d8b5') in 0.032145 seconds 
-  Import took 0.033867 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Building Blocks/Furniture Set/kitchenFridge.fbx
-  artifactKey: Guid(da6031e5e3eb9b843816544d6a2bf734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/kitchenFridge.fbx using Guid(da6031e5e3eb9b843816544d6a2bf734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2396503683dab4c2ce8127f3d622363f') in 0.027289 seconds 
-  Import took 0.029151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000130 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallWindow.fbx
-  artifactKey: Guid(6b1bf604b23f8d34bb761e50a8e694ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallWindow.fbx using Guid(6b1bf604b23f8d34bb761e50a8e694ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b12947df8997bd1b07fbd7b4db1c938') in 0.026821 seconds 
-  Import took 0.028530 seconds .
+  Time since last request: 0.000165 seconds.
+  path: Assets/Building Blocks/Fantasy Town/hedgeGate.fbx
+  artifactKey: Guid(21afc0e8cf0bab247b39ec159f0b1bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/hedgeGate.fbx using Guid(21afc0e8cf0bab247b39ec159f0b1bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2469ea93f75ea736f9f037abf2959038') in 0.015721 seconds 
+  Import took 0.017437 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000146 seconds.
-  path: Assets/Building Blocks/Furniture Set/stairs.fbx
-  artifactKey: Guid(c0d3a04ba63e80f4e9ee676786e3ecfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/stairs.fbx using Guid(c0d3a04ba63e80f4e9ee676786e3ecfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ded0c5b45731545f955765be93c055f') in 0.015153 seconds 
-  Import took 0.016908 seconds .
+  path: Assets/Building Blocks/Fantasy Town/cartHigh.fbx
+  artifactKey: Guid(c2d221f263916034e993c7770feb7d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/cartHigh.fbx using Guid(c2d221f263916034e993c7770feb7d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66799d40d107025f2eecaf0fa5a0e902') in 0.032728 seconds 
+  Import took 0.034405 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/Building Blocks/Furniture Set/pillow.fbx
-  artifactKey: Guid(a8f25c2d246fc7c45a81859de9b2d2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/pillow.fbx using Guid(a8f25c2d246fc7c45a81859de9b2d2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '581ca21491b45affe4e95df15b0f244b') in 0.013381 seconds 
-  Import took 0.015121 seconds .
+  Time since last request: 0.000193 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fenceCurved.fbx
+  artifactKey: Guid(70df4cace9ac34a4bbfd80ddebfdd3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fenceCurved.fbx using Guid(70df4cace9ac34a4bbfd80ddebfdd3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad9976173a83c1f42796367f217cfc2') in 0.015121 seconds 
+  Import took 0.016792 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/Building Blocks/Furniture Set/loungeChair.fbx
-  artifactKey: Guid(f29496c8f419c0e46a632ca7aa192b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/loungeChair.fbx using Guid(f29496c8f419c0e46a632ca7aa192b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd674e024eb6580a3429e04a6a6e3d8a0') in 0.015239 seconds 
-  Import took 0.016912 seconds .
+  Time since last request: 0.000209 seconds.
+  path: Assets/Building Blocks/Fantasy Town/bannerRed.fbx
+  artifactKey: Guid(c1858c63a1e7816458a80aa5af5c0673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/bannerRed.fbx using Guid(c1858c63a1e7816458a80aa5af5c0673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27de6353bd99787d91181a8b17fca3f') in 0.017520 seconds 
+  Import took 0.019401 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/Building Blocks/Furniture Set/televisionModern.fbx
-  artifactKey: Guid(9e942589461e54646bdc5e82c92196c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/televisionModern.fbx using Guid(9e942589461e54646bdc5e82c92196c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc5c8c6e049ce7c8ccb5f82405d66f5') in 0.016282 seconds 
-  Import took 0.017980 seconds .
+  Time since last request: 0.000166 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadEdge.fbx
+  artifactKey: Guid(8b4f2cac0dd61d242b88c181a3dfbe6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadEdge.fbx using Guid(8b4f2cac0dd61d242b88c181a3dfbe6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd26a8bb434396fe480db3ae6f73958be') in 0.015450 seconds 
+  Import took 0.017209 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Building Blocks/Furniture Set/bedBunk.fbx
-  artifactKey: Guid(86b410bb45801d94099e91d09fae95e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/bedBunk.fbx using Guid(86b410bb45801d94099e91d09fae95e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635ca205df48cb3a5d8d42f843fe6220') in 0.033360 seconds 
-  Import took 0.035095 seconds .
+  Time since last request: 0.000207 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofFlat.fbx
+  artifactKey: Guid(df07e11b0a23ce64da6115348b1c52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofFlat.fbx using Guid(df07e11b0a23ce64da6115348b1c52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8d1f23aa2b3fc4ff609c40c45a7997') in 0.012626 seconds 
+  Import took 0.014407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fenceGate.fbx
+  artifactKey: Guid(7dcb09f41860b1647b0f146d83d79cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fenceGate.fbx using Guid(7dcb09f41860b1647b0f146d83d79cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57687f6379a771c058650ddafc5e40ee') in 0.021641 seconds 
+  Import took 0.023404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Building Blocks/Fantasy Town/planks.fbx
+  artifactKey: Guid(982848d6f5c0f584e93fcfbf393ab038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/planks.fbx using Guid(982848d6f5c0f584e93fcfbf393ab038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19116f45b2f76bae677a59c1e03fc773') in 0.012740 seconds 
+  Import took 0.014383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainCornerInnerSquare.fbx
+  artifactKey: Guid(6115dc3fec1a41647b5f38ba9d95de01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainCornerInnerSquare.fbx using Guid(6115dc3fec1a41647b5f38ba9d95de01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296a00162373d6f652229fb2f7ab968b') in 0.017019 seconds 
+  Import took 0.018710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Building Blocks/Fantasy Town/chimney.fbx
+  artifactKey: Guid(6636d63fe5c0c7b44b1225e2f18a7db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/chimney.fbx using Guid(6636d63fe5c0c7b44b1225e2f18a7db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2777d216ced8c6133a237b4600ccd2') in 0.014887 seconds 
+  Import took 0.016526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofGableDetail.fbx
+  artifactKey: Guid(e35bcb005746fa34ca03e220c6c4ce19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofGableDetail.fbx using Guid(e35bcb005746fa34ca03e220c6c4ce19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5ac30b579e6510136bd96469c5c08f') in 0.020806 seconds 
+  Import took 0.022500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadBend.fbx
+  artifactKey: Guid(260047ebe81e7854fbbaaa96189eb606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadBend.fbx using Guid(260047ebe81e7854fbbaaa96189eb606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf2afa1161a95e2fdea23767123a826') in 0.015148 seconds 
+  Import took 0.016832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roof.fbx
+  artifactKey: Guid(4c8ee8a5d4fb1b34ab05f39727a7ef41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roof.fbx using Guid(4c8ee8a5d4fb1b34ab05f39727a7ef41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce858b982c0c07d168950f452c6f2033') in 0.021139 seconds 
+  Import took 0.022812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighGableTop.fbx
+  artifactKey: Guid(30fd3bc7b0b7cb649a622c013d3762ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighGableTop.fbx using Guid(30fd3bc7b0b7cb649a622c013d3762ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb363ff45c6191a5a4e0499f6899155d') in 0.017724 seconds 
+  Import took 0.019549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Building Blocks/Fantasy Town/chimneyTop.fbx
+  artifactKey: Guid(59f27060daa707049a48a09700b4b962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/chimneyTop.fbx using Guid(59f27060daa707049a48a09700b4b962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce44577d9c1e2d4ae8d55da6bc31f848') in 0.017842 seconds 
+  Import took 0.019536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofCorner.fbx
+  artifactKey: Guid(fcac662a6af3ab64fbba4604d5d63d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofCorner.fbx using Guid(fcac662a6af3ab64fbba4604d5d63d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a844bf334572c7f5d835ecf4945eb26c') in 0.018568 seconds 
+  Import took 0.020249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainRoundDetail.fbx
+  artifactKey: Guid(5157fc32ebdd22f47bf1537359426fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainRoundDetail.fbx using Guid(5157fc32ebdd22f47bf1537359426fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d54db733b0f9ed329235a1e06feda22') in 0.019202 seconds 
+  Import took 0.020828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighGable.fbx
+  artifactKey: Guid(dd58a5e1fe90f3c4ab0b7da47f972a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighGable.fbx using Guid(dd58a5e1fe90f3c4ab0b7da47f972a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa157800f885a1ec8cc56a406780814') in 0.020176 seconds 
+  Import took 0.021917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainRound.fbx
+  artifactKey: Guid(b137a8b8212b8d944aeb546419a84ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainRound.fbx using Guid(b137a8b8212b8d944aeb546419a84ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd852737fd6d346489f12bb171e68a0') in 0.018578 seconds 
+  Import took 0.020213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Building Blocks/Fantasy Town/overhang.fbx
+  artifactKey: Guid(9fd1e2a843aa5e443a85c3873be6196c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/overhang.fbx using Guid(9fd1e2a843aa5e443a85c3873be6196c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5764024974be3211e1354137d0eb62b0') in 0.014798 seconds 
+  Import took 0.016516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainSquareDetail.fbx
+  artifactKey: Guid(e990b57598587c44cbfc6560365a4187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainSquareDetail.fbx using Guid(e990b57598587c44cbfc6560365a4187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89859738d50f97dd124be02fecb3007a') in 0.017593 seconds 
+  Import took 0.019268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofCornerRound.fbx
+  artifactKey: Guid(af3cd05b1f64dcf458cd52c163ba2b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofCornerRound.fbx using Guid(af3cd05b1f64dcf458cd52c163ba2b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b456485379d230a62e319ce372c937b9') in 0.017581 seconds 
+  Import took 0.019416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofGable.fbx
+  artifactKey: Guid(d398b090ca1e6354785190636d65f67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofGable.fbx using Guid(d398b090ca1e6354785190636d65f67d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2fe72a255e2732662cef124fa3abf2') in 0.019768 seconds 
+  Import took 0.021486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofRight.fbx
+  artifactKey: Guid(e244445eeb01eca44a8283f8e5278146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofRight.fbx using Guid(e244445eeb01eca44a8283f8e5278146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbfc85495c26d78aa2ec62fead82953') in 0.019836 seconds 
+  Import took 0.021569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Building Blocks/Fantasy Town/pillarWood.fbx
+  artifactKey: Guid(8fa01731ccb1b6c41a8e59deee2d82ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/pillarWood.fbx using Guid(8fa01731ccb1b6c41a8e59deee2d82ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc458feee95332359a2917b273c4e86') in 0.015638 seconds 
+  Import took 0.017461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Building Blocks/Fantasy Town/hedge.fbx
+  artifactKey: Guid(73865d7592baae04288a974d1481c74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/hedge.fbx using Guid(73865d7592baae04288a974d1481c74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a385639307c924d498432f8a9821a3') in 0.014802 seconds 
+  Import took 0.016513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Building Blocks/Fantasy Town/planksOpening.fbx
+  artifactKey: Guid(139110a3c00960d4a9bd9a20c850c048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/planksOpening.fbx using Guid(139110a3c00960d4a9bd9a20c850c048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ee05ae69bde870ff514f02f830ee51') in 0.012342 seconds 
+  Import took 0.014018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainCorner.fbx
+  artifactKey: Guid(a1576b2abfbcc784a98bc6e1ef8875c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainCorner.fbx using Guid(a1576b2abfbcc784a98bc6e1ef8875c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d8202fff59979d67aba7e5cae96fe9') in 0.017745 seconds 
+  Import took 0.019494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHigh.fbx
+  artifactKey: Guid(359621c95cdc95343a66ecce5cf448d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHigh.fbx using Guid(359621c95cdc95343a66ecce5cf448d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ac58cb86691c90910a23a1c75c6f6e') in 0.020937 seconds 
+  Import took 0.022671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighCornerInner.fbx
+  artifactKey: Guid(a0e1a104d36dd0f4f8ee5c96a0c3fe45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighCornerInner.fbx using Guid(a0e1a104d36dd0f4f8ee5c96a0c3fe45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8270914821350d0640f0060f1d12f22a') in 0.017150 seconds 
+  Import took 0.018819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofGableEnd.fbx
+  artifactKey: Guid(51a17e0bd2409df409fea73d5c2d598f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofGableEnd.fbx using Guid(51a17e0bd2409df409fea73d5c2d598f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0578696df1fe5e8307a50a51bb254843') in 0.020821 seconds 
+  Import took 0.022522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Building Blocks/Fantasy Town/cart.fbx
+  artifactKey: Guid(449239fea0962784d98c118239fbea84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/cart.fbx using Guid(449239fea0962784d98c118239fbea84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd182ed995700d30d9c2791742ffb8d12') in 0.023036 seconds 
+  Import took 0.024716 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000201 seconds.
-  path: Assets/Building Blocks/Furniture Set/wallCornerRond.fbx
-  artifactKey: Guid(3f2b1d679f91cd04782ce9aa9d10db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Building Blocks/Furniture Set/wallCornerRond.fbx using Guid(3f2b1d679f91cd04782ce9aa9d10db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f986cce178e7d2f91569d7ba8fca11e4') in 0.018220 seconds 
-  Import took 0.019983 seconds .
+  path: Assets/Building Blocks/Fantasy Town/hedgeCurved.fbx
+  artifactKey: Guid(a953877bc143c75438321303365e8541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/hedgeCurved.fbx using Guid(a953877bc143c75438321303365e8541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902cd049f4b92cab72e2576f11b9509a') in 0.015522 seconds 
+  Import took 0.017195 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadCornerInner.fbx
+  artifactKey: Guid(c1fe5785c7770414b999cdd0b44cd758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadCornerInner.fbx using Guid(c1fe5785c7770414b999cdd0b44cd758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd78e7c1ea102cf79341e3ce017874ce') in 0.015511 seconds 
+  Import took 0.017215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighFlat.fbx
+  artifactKey: Guid(3eef4656e3b544b4d8323a93cfec6533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighFlat.fbx using Guid(3eef4656e3b544b4d8323a93cfec6533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df85fc1740d2f63ade1b5ebc82e2b796') in 0.012762 seconds 
+  Import took 0.014453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighCorner.fbx
+  artifactKey: Guid(c8d7b00fd0fb5aa4c8e1681cfe278250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighCorner.fbx using Guid(c8d7b00fd0fb5aa4c8e1681cfe278250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a89ef7dd819dfdc1088944a23372e3') in 0.018526 seconds 
+  Import took 0.020259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofPoint.fbx
+  artifactKey: Guid(7b1ff56319b1b93409318a617dcc1285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofPoint.fbx using Guid(7b1ff56319b1b93409318a617dcc1285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd6b72c7a1130c18e5e4b4e403f584d') in 0.015121 seconds 
+  Import took 0.016836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainCenter.fbx
+  artifactKey: Guid(bfac529fe43f2ad43af946b886bc896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainCenter.fbx using Guid(bfac529fe43f2ad43af946b886bc896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761a055516c3532083652c1640099527') in 0.015842 seconds 
+  Import took 0.017548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainCurved.fbx
+  artifactKey: Guid(64f1ad295ff0f69489596e37480bc691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainCurved.fbx using Guid(64f1ad295ff0f69489596e37480bc691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740534cc2404bf95aae9a9b605e8437a') in 0.018277 seconds 
+  Import took 0.020022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighGableEnd.fbx
+  artifactKey: Guid(cfd142a00ff0a2e4e8fa51c7fb93bc32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighGableEnd.fbx using Guid(cfd142a00ff0a2e4e8fa51c7fb93bc32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c8c826f2a2be75c2b063514986bd53') in 0.019816 seconds 
+  Import took 0.021531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainEdge.fbx
+  artifactKey: Guid(ed9133dd5554c4043812bea9b040cf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainEdge.fbx using Guid(ed9133dd5554c4043812bea9b040cf67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21983a870a7c9e4d856c35187f63ec89') in 0.018742 seconds 
+  Import took 0.020490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Building Blocks/Fantasy Town/lantern.fbx
+  artifactKey: Guid(630c9d9df5ed73c4bba94414970b1ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/lantern.fbx using Guid(630c9d9df5ed73c4bba94414970b1ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cf8c505544cdb98473c3f4d268a39b') in 0.017077 seconds 
+  Import took 0.018769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fence.fbx
+  artifactKey: Guid(9296ee25af7a5734f963a0bd7c9dc2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fence.fbx using Guid(9296ee25af7a5734f963a0bd7c9dc2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a06af0aba37385bb588adfc3c7ae787') in 0.012520 seconds 
+  Import took 0.014214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadCurb.fbx
+  artifactKey: Guid(f2d3572188dc7e34dbe09d0a0355c5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadCurb.fbx using Guid(f2d3572188dc7e34dbe09d0a0355c5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecd253eb241b00b89120b71435a62c5') in 0.012686 seconds 
+  Import took 0.014428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Building Blocks/Fantasy Town/fountainCornerInner.fbx
+  artifactKey: Guid(3ef117f29b019634e93a69010e557e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/fountainCornerInner.fbx using Guid(3ef117f29b019634e93a69010e557e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48f14939894fa3f0e5450147114ff74') in 0.017497 seconds 
+  Import took 0.019224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighGableDetail.fbx
+  artifactKey: Guid(9b558ee4eab7c5644aa4ca2cfb375a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighGableDetail.fbx using Guid(9b558ee4eab7c5644aa4ca2cfb375a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4d216e265dbc766119edd3af3d8bda') in 0.020340 seconds 
+  Import took 0.022071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Building Blocks/Fantasy Town/poles.fbx
+  artifactKey: Guid(e4d3a45769356d643b48cb95727e64d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/poles.fbx using Guid(e4d3a45769356d643b48cb95727e64d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f6d771a0c216de776c6ef2fdbad6cb') in 0.012401 seconds 
+  Import took 0.014076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roadSlope.fbx
+  artifactKey: Guid(05683fe180dcf934f8a0fd73754da5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roadSlope.fbx using Guid(05683fe180dcf934f8a0fd73754da5f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65df4a41dab555c1f9322fa12b95b7f') in 0.015786 seconds 
+  Import took 0.017501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighCornerRound.fbx
+  artifactKey: Guid(b538f8c475c97e14fa11dc640fd5a033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighCornerRound.fbx using Guid(b538f8c475c97e14fa11dc640fd5a033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50fa4048d8a1f9e761dbfd3c56322e15') in 0.019497 seconds 
+  Import took 0.021229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Building Blocks/Fantasy Town/planksHalf.fbx
+  artifactKey: Guid(fa9b0ecf6867bec4ba7a06bb6bae0ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/planksHalf.fbx using Guid(fa9b0ecf6867bec4ba7a06bb6bae0ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e29b13acace22d8872095803ee6c83') in 0.017401 seconds 
+  Import took 0.019073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighRight.fbx
+  artifactKey: Guid(fd48cd0eb359358458d38eca9ac2a384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighRight.fbx using Guid(fd48cd0eb359358458d38eca9ac2a384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2905e4ec19efd1c7631e714f8fb49d2c') in 0.019120 seconds 
+  Import took 0.020856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofLeft.fbx
+  artifactKey: Guid(e631a23ae17c5914380da238252b9eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofLeft.fbx using Guid(e631a23ae17c5914380da238252b9eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77be0cd1308f47ec9cf7395f695d73c6') in 0.020954 seconds 
+  Import took 0.022666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Building Blocks/Fantasy Town/roofHighPoint.fbx
+  artifactKey: Guid(b1e8583df5328914481afb0eac12ff19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/roofHighPoint.fbx using Guid(b1e8583df5328914481afb0eac12ff19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7b72070c96d7ced9201695c1e2c1ad') in 0.015382 seconds 
+  Import took 0.017229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Building Blocks/Fantasy Town/blade.fbx
+  artifactKey: Guid(abc8f6fe9d2c28145ab0050ba5289b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Fantasy Town/blade.fbx using Guid(abc8f6fe9d2c28145ab0050ba5289b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc3b78a1bce5b661ee0988e20fd8f9c') in 0.018082 seconds 
+  Import took 0.019856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.456418 seconds.
+  path: Assets/Building Blocks/Medieval Town/Banner_01.obj
+  artifactKey: Guid(4d78a9bec0a73294d8a99fd4a5b8db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Banner_01.obj using Guid(4d78a9bec0a73294d8a99fd4a5b8db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382f55fdd9f54889de24d76dd729900d') in 0.021513 seconds 
+  Import took 0.023279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Building Blocks/Medieval Town/Roof_Point_Green_01.obj
+  artifactKey: Guid(ebf7b0398e897844bb325f66e92d8ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Roof_Point_Green_01.obj using Guid(ebf7b0398e897844bb325f66e92d8ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab3df8c4ae921d1ef4440a4f9e04c3e') in 0.020798 seconds 
+  Import took 0.022518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Building Blocks/Medieval Town/Plate_Curve_01.obj
+  artifactKey: Guid(1dd944d656b57874596d9a02856d1eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Plate_Curve_01.obj using Guid(1dd944d656b57874596d9a02856d1eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df927797b0f4cf199fe551a5ed92a80') in 0.018343 seconds 
+  Import took 0.020026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Door_Square_01.obj
+  artifactKey: Guid(eec6d7f5efaafae41a92076e9c7f2ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Door_Square_01.obj using Guid(eec6d7f5efaafae41a92076e9c7f2ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c550b22a70eeff6c5c47eca4447878') in 0.018190 seconds 
+  Import took 0.019908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Pole_01.obj
+  artifactKey: Guid(cce1ce0251c2a724bad2c9d370ac2d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Pole_01.obj using Guid(cce1ce0251c2a724bad2c9d370ac2d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06baafb41d2b7cdfd5aa5cd4c856e8f') in 0.014704 seconds 
+  Import took 0.016504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Window_Round_01.obj
+  artifactKey: Guid(c0391bce02f90a140a7642933cc77739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Window_Round_01.obj using Guid(c0391bce02f90a140a7642933cc77739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af04f90f84c5fc1e4c4593fa7e6ec8f1') in 0.016512 seconds 
+  Import took 0.018214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Window_Square_01.obj
+  artifactKey: Guid(736dc6ddbb7b95c42b390650e8b58219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Window_Square_01.obj using Guid(736dc6ddbb7b95c42b390650e8b58219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd2bc354337838b91a29b618a3a8777') in 0.016791 seconds 
+  Import took 0.018490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Slanted_Pole_01.obj
+  artifactKey: Guid(e7257de59ccac724996a83d00b939d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Slanted_Pole_01.obj using Guid(e7257de59ccac724996a83d00b939d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d9dbd9ad77b0b850d3fdb4b55554b3') in 0.014932 seconds 
+  Import took 0.016613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Building Blocks/Medieval Town/Roof_Corner_Green_01.obj
+  artifactKey: Guid(dd78b259d29906e4e8b07a17d50fef02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Roof_Corner_Green_01.obj using Guid(dd78b259d29906e4e8b07a17d50fef02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5d960855d955d40eb47e450d6008e6') in 0.021531 seconds 
+  Import took 0.023423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Window_Round_Sill_01.obj
+  artifactKey: Guid(ea5d4edd97b9f234aad586dc77b72040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Window_Round_Sill_01.obj using Guid(ea5d4edd97b9f234aad586dc77b72040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07447dba98498ad4fc1ceb16149d5018') in 0.017350 seconds 
+  Import took 0.019031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Building Blocks/Medieval Town/Iron_Door_01.obj
+  artifactKey: Guid(8c5dcb5e23831a74eaa0c6dedbce136e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Iron_Door_01.obj using Guid(8c5dcb5e23831a74eaa0c6dedbce136e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dae58d4c27c29f50fefd4c3af74d10e') in 0.018428 seconds 
+  Import took 0.020124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Slanted_Wall_01.obj
+  artifactKey: Guid(b308006a662348d4a8fb1483eb7342fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Slanted_Wall_01.obj using Guid(b308006a662348d4a8fb1483eb7342fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62636266d71614f065b57cdce26b674') in 0.017124 seconds 
+  Import took 0.018773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Building Blocks/Medieval Town/Plate_Road_01.obj
+  artifactKey: Guid(61be5dedd9e3ece42a9eb982f1b42c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Plate_Road_01.obj using Guid(61be5dedd9e3ece42a9eb982f1b42c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cfa996ce18a0d287e9e3fefd3e493e') in 0.014675 seconds 
+  Import took 0.016317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Corner_01.obj
+  artifactKey: Guid(ec32f9ff719bfd84b89f3c4486cba627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Corner_01.obj using Guid(ec32f9ff719bfd84b89f3c4486cba627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977ba1237813277a802bfb73a6049fd1') in 0.017953 seconds 
+  Import took 0.019749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Triangle_01.obj
+  artifactKey: Guid(71a1c6162eb21644aae438a0c491700a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Triangle_01.obj using Guid(71a1c6162eb21644aae438a0c491700a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2489c5bc4a32fc3f5d8324442b9fe525') in 0.015032 seconds 
+  Import took 0.016731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Building Blocks/Medieval Town/Roof_Point_Red_01.obj
+  artifactKey: Guid(df2bbf29d4901e944af3fc4f2ef4e29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Roof_Point_Red_01.obj using Guid(df2bbf29d4901e944af3fc4f2ef4e29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e508fdaf36843c94717e84af899500') in 0.019700 seconds 
+  Import took 0.021484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Broken_Wall_01.obj
+  artifactKey: Guid(ade584ab624ffc745a322ebf530e39f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Broken_Wall_01.obj using Guid(ade584ab624ffc745a322ebf530e39f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcace3deabaaa9244462eac6d047f42') in 0.018031 seconds 
+  Import took 0.019666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Short_Wall_01.obj
+  artifactKey: Guid(efa50c44b2c1e1f48881f6d828d1034c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Short_Wall_01.obj using Guid(efa50c44b2c1e1f48881f6d828d1034c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9037327474b30657b5a7ec720042beca') in 0.016960 seconds 
+  Import took 0.018724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Building Blocks/Medieval Town/Plate_Sidewalk_01.obj
+  artifactKey: Guid(133501cbf6cf1e64a9dbf869b5710649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Plate_Sidewalk_01.obj using Guid(133501cbf6cf1e64a9dbf869b5710649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a3a2693c86fd0daad43a7d0bb5ef02') in 0.017536 seconds 
+  Import took 0.019217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Window_Square_Sill_01.obj
+  artifactKey: Guid(bf3b318202a68604089c583d90172a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Window_Square_Sill_01.obj using Guid(bf3b318202a68604089c583d90172a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0ff87ef198ae210cac6329e6391b2e') in 0.018911 seconds 
+  Import took 0.020579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Building Blocks/Medieval Town/Castle_Wall_01.obj
+  artifactKey: Guid(c3818e5542a4e734ba355d756b875c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Castle_Wall_01.obj using Guid(c3818e5542a4e734ba355d756b875c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85545616ea9d367685b2f52ed3a49563') in 0.017191 seconds 
+  Import took 0.018947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Border_Wall_01.obj
+  artifactKey: Guid(be1ae5d59239427468be6b02daf7d3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Border_Wall_01.obj using Guid(be1ae5d59239427468be6b02daf7d3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d08f05f15cab8014a31be89cd4a77d') in 0.016749 seconds 
+  Import took 0.018446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Door_Round_01.obj
+  artifactKey: Guid(15d00975bcbbef54ca5b0f283ef7afe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Door_Round_01.obj using Guid(15d00975bcbbef54ca5b0f283ef7afe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07be1c7849a6fd279a17cf0bb15dd7af') in 0.016949 seconds 
+  Import took 0.018634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Small_Wall_01.obj
+  artifactKey: Guid(6e4cf4318527fbd43afbf51c5ce3bc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Small_Wall_01.obj using Guid(6e4cf4318527fbd43afbf51c5ce3bc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a0bb776089b98e2f23ea1e1f0ad518') in 0.017486 seconds 
+  Import took 0.019183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Window_Narrow_01.obj
+  artifactKey: Guid(e0c8b943cb0708f428fe8783dc1d222d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Window_Narrow_01.obj using Guid(e0c8b943cb0708f428fe8783dc1d222d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0eaa5f4526f66a95f955aadb685c8b2') in 0.016824 seconds 
+  Import took 0.018489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Building Blocks/Medieval Town/Plate_Corner_01.obj
+  artifactKey: Guid(9a09a3b9e95aaea44a0120f4aeaeec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Plate_Corner_01.obj using Guid(9a09a3b9e95aaea44a0120f4aeaeec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f4b2c2fcfe6c8ff708c3cd61fbffa8') in 0.018212 seconds 
+  Import took 0.019957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Building Blocks/Medieval Town/Lightpost_01.obj
+  artifactKey: Guid(d995afff3d98a614d996f6c3e5dde55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Lightpost_01.obj using Guid(d995afff3d98a614d996f6c3e5dde55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d62de540337f88830f32449dab9640') in 0.018842 seconds 
+  Import took 0.020583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Building Blocks/Medieval Town/Plate_Pavement_01.obj
+  artifactKey: Guid(92171861d8a292049817bc29577e4063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Plate_Pavement_01.obj using Guid(92171861d8a292049817bc29577e4063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a357a08e4e9b35952dd42fdf1c9b8fd7') in 0.015401 seconds 
+  Import took 0.017071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Building Blocks/Medieval Town/Roof_Corner_Red_01.obj
+  artifactKey: Guid(a58bfb7347f577c488e1fa387838a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Roof_Corner_Red_01.obj using Guid(a58bfb7347f577c488e1fa387838a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3eb8aa876285aa6674098e47c5600c4') in 0.023939 seconds 
+  Import took 0.025670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Window_Round_Long_01.obj
+  artifactKey: Guid(76eacf0d75b7211499c66461b8e81261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Window_Round_Long_01.obj using Guid(76eacf0d75b7211499c66461b8e81261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac484dd69236b43299ddbbb54240b43') in 0.018725 seconds 
+  Import took 0.020361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Arch_01.obj
+  artifactKey: Guid(bcc41af39ab70fb4b8711ed5a0bfc7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Arch_01.obj using Guid(bcc41af39ab70fb4b8711ed5a0bfc7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748a64061338cd33f09a22d6d06b9ba2') in 0.017364 seconds 
+  Import took 0.019034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Building Blocks/Medieval Town/Roof_Inner_Corner_Green_01.obj
+  artifactKey: Guid(0477085a5f2d5164fa76424916aa295a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Roof_Inner_Corner_Green_01.obj using Guid(0477085a5f2d5164fa76424916aa295a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39bbbc87358c89a535f7fa9f1537b2b') in 0.020695 seconds 
+  Import took 0.022367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Building Blocks/Medieval Town/Plate_Wood_01.obj
+  artifactKey: Guid(82898905686dc0c46850de71855b156e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Plate_Wood_01.obj using Guid(82898905686dc0c46850de71855b156e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025332f6490dd79ded993a228f47912b') in 0.015289 seconds 
+  Import took 0.017066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Building Blocks/Medieval Town/Grey_Wall_01.obj
+  artifactKey: Guid(602f32515fcbabc4bbdb459f2b769369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Grey_Wall_01.obj using Guid(602f32515fcbabc4bbdb459f2b769369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65a81f6514adafaf3c73f9745cf3653') in 0.018087 seconds 
+  Import took 0.019791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Building Blocks/Medieval Town/Roof_Inner_Corner_Red_01.obj
+  artifactKey: Guid(24c3f13df6a79d149937244a64a23d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Building Blocks/Medieval Town/Roof_Inner_Corner_Red_01.obj using Guid(24c3f13df6a79d149937244a64a23d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a3fd9129bf6ddbf7994adc6bd43674') in 0.018749 seconds 
+  Import took 0.020440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.762364 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c860dfdf0522eec1202f36843e52d436') in 0.004953 seconds 
+  Import took 0.007143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075785 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdddd331c3f1b7826858a8d92db67e39') in 0.009987 seconds 
+  Import took 0.012313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.618690 seconds.
+  path: Assets/TextMesh Pro/Fonts/CHILLER.TTF
+  artifactKey: Guid(aaa6fc6b19ef3d44e926f2b462abdaf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/CHILLER.TTF using Guid(aaa6fc6b19ef3d44e926f2b462abdaf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbed73c92d57609cafe1925d37fbec4') in 0.007167 seconds 
+  Import took 0.009071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.269989 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adfba6a1be83d3483f469f6cfd5fa5ce') in 0.013900 seconds 
+  Import took 0.016198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.565751 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials
+  artifactKey: Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials using Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd6dcea75119183330fd0c84a35eed7') in 0.004722 seconds 
+  Import took 0.006605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.743966 seconds.
+  path: Assets/TextMesh Pro/Fonts/BRADHITC.TTF
+  artifactKey: Guid(083c6959214411c4db5c4844449282da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/BRADHITC.TTF using Guid(083c6959214411c4db5c4844449282da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530bf880ab8db2d21df7469d25da4a69') in 0.009788 seconds 
+  Import took 0.012219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.106303 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ed59a48b952935c94a9302b2b79e3d') in 0.007449 seconds 
+  Import took 0.009327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 553.752253 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80217e6c75f9d2e4957cbc8093faaf48') in 0.024609 seconds 
+  Import took 0.027321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.519691 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/CHILLER SDF.asset
+  artifactKey: Guid(229a98d4474c63946b6b02a84eaaa8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/CHILLER SDF.asset using Guid(229a98d4474c63946b6b02a84eaaa8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'cc80149750871cce81989bd95f716f49') in 0.023702 seconds 
+  Import took 0.025794 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.610 seconds
+Domain Reload Profiling:
+	ReloadAssembly (611ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (489ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (177ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (176ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1509 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1989.
+Total: 1.985200 ms (FindLiveObjects: 0.090400 ms CreateObjectMapping: 0.030600 ms MarkObjects: 1.670700 ms  DeleteObjects: 0.192800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 495.726409 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/CHILLER SDF.asset
+  artifactKey: Guid(229a98d4474c63946b6b02a84eaaa8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/CHILLER SDF.asset using Guid(229a98d4474c63946b6b02a84eaaa8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a3fbfe4858c6b75797d78f0027e1c3') in 0.068717 seconds 
+  Import took 0.070820 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002459 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.608 seconds
+Domain Reload Profiling:
+	ReloadAssembly (608ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (484ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (173ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (116ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1507 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 1.871200 ms (FindLiveObjects: 0.077000 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.581000 ms  DeleteObjects: 0.180600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002589 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.603 seconds
+Domain Reload Profiling:
+	ReloadAssembly (603ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (490ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (182ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (122ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1507 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1995.
+Total: 2.040200 ms (FindLiveObjects: 0.087800 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.710500 ms  DeleteObjects: 0.209300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.586 seconds
+Domain Reload Profiling:
+	ReloadAssembly (586ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (470ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (165ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (176ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (117ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1508 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1998.
+Total: 1.800700 ms (FindLiveObjects: 0.083400 ms CreateObjectMapping: 0.026600 ms MarkObjects: 1.497200 ms  DeleteObjects: 0.192900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1313.676339 seconds.
+  path: Assets/Dark.asset
+  artifactKey: Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dark.asset using Guid(dc8662e674687e949a3bba21fc2967dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24aae6abb21ec37abb678c8fc4374b57') in 0.012063 seconds 
+  Import took 0.014104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.428318 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78a27303d38c5bc73b55289faa0930d') in 0.020843 seconds 
+  Import took 0.022849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.561954 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(4315274486772ec499dc3f4929ce7290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(4315274486772ec499dc3f4929ce7290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104e82c02e61c3ead1bc0cab09ecf92a') in 0.005956 seconds 
+  Import took 0.008125 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Domain Reload Profiling:
+	ReloadAssembly (756ms)
+		BeginReloadAssembly (178ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (542ms)
+			LoadAssemblies (168ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (182ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (211ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (137ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1508 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 1.836800 ms (FindLiveObjects: 0.086100 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.522200 ms  DeleteObjects: 0.199800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30.424382 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103801fc0a1f7f61fec486230a8076f8') in 0.008139 seconds 
+  Import took 0.010567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.465159 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d5c7e85425946866ad0a4cfc2c4c51') in 0.001981 seconds 
+  Import took 0.005095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.619406 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09648ce432d2b0f0f0abd40a0d570048') in 0.001941 seconds 
+  Import took 0.004755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.255077 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(c827e24ee2f984e42b7ced58b9751896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a0ddeb344a64db02305b463d6a57b7') in 0.001904 seconds 
+  Import took 0.004426 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003612 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Domain Reload Profiling:
+	ReloadAssembly (600ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (485ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (165ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (184ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1508 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2002.
+Total: 1.860400 ms (FindLiveObjects: 0.083700 ms CreateObjectMapping: 0.026500 ms MarkObjects: 1.524600 ms  DeleteObjects: 0.224600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Domain Reload Profiling:
+	ReloadAssembly (702ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (571ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (200ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (203ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1508 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2004.
+Total: 2.138500 ms (FindLiveObjects: 0.098700 ms CreateObjectMapping: 0.034000 ms MarkObjects: 1.786100 ms  DeleteObjects: 0.218900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.563 seconds
+Domain Reload Profiling:
+	ReloadAssembly (564ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (453ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (155ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (170ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (42ms)
+				ProcessInitializeOnLoadAttributes (116ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1508 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2006.
+Total: 1.950500 ms (FindLiveObjects: 0.081700 ms CreateObjectMapping: 0.027600 ms MarkObjects: 1.582600 ms  DeleteObjects: 0.257900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
