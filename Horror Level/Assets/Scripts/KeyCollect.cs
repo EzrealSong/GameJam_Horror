@@ -5,43 +5,19 @@ using UnityEngine.UI;
 
 public class KeyCollect : MonoBehaviour
 {
-    public int keys;
-    public GameObject scoreText;
-    public GameObject winText;
-    public bool gameOver;
-    // Start is called before the first frame update
-    void Start()
+    public static int keys = 0;
+    void OnGUI()
     {
-
-    }
-    public void OnTriggerEnter(Collider Col)
-    {
-        if (Col.gameObject.tag == "Respawn" && gameOver == false)
+        GUI.Box(new Rect(20, 20, 200, 40), "BOOKS: " + keys);
+        if (keys >= 3)
         {
-            keys = 0;
-            scoreText.GetComponent<Text>().text = "Keys: " + keys;
-        }
-        if (Col.gameObject.tag == "Keys" && gameOver == false)
-        {
-            keys++;
-            scoreText.GetComponent<Text>().text = "Keys: " + keys;
-            //Col.gameObject.SetActive(false);
-            Destroy(Col.gameObject);
+            GUI.Box(new Rect(20, 40, 200, 40), "Go to the second floor");
+            GUI.Box(new Rect(20, 60, 200, 40), "Trigger the magic circle");
         }
     }
 
-    public void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Win")
-        {
-            gameOver = true;
-            scoreText.GetComponent<Text>().text = "";
-            winText.GetComponent<Text>().text = "Congratulations You Got " + keys + " Keys(s)";
-        }
-    }
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
+    
+    
+   
+    
 }
