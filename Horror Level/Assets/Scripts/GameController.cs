@@ -6,7 +6,11 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     // Start is called before the first frame update
-   
+    public void Start()
+    {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+    }
     public void Quit()
     {
         Debug.Log("Quit");

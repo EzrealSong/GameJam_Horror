@@ -13,8 +13,8 @@ public class EnemyAII : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (GameObject.FindGameObjectWithTag("Player").activeInHierarchy)
-            playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+        if (GameObject.FindGameObjectWithTag("First Person Controller").activeInHierarchy)
+            playerTransform = GameObject.FindGameObjectWithTag("First Person Controller").transform;
         myNavmesh = gameObject.GetComponent<UnityEngine.AI.NavMeshAgent>();
     }
     // Update is called once per frame
@@ -25,6 +25,7 @@ public class EnemyAII : MonoBehaviour
             nextCheck = Time.time + checkRate;
             FollowPlayer();
         }
+
     }
     void FollowPlayer()
     {
